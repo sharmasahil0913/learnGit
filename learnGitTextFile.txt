@@ -1,9 +1,7 @@
-This is my first commit, first commit in master branch. Second commit, first commit in featureA branch.Third commit, second commit in featureA branch.Fourth commit, third commit in featureA branch. Fifth commit, first commit in featureB branch. Sixth commit, second commit in featureB branch. Seventh commit, third commit in featureB branch.
-
+This is my first commit, first commit in master branch. Second commit, first commit in featureA branch.Third commit, second commit in featureA branch.Fourth commit, third commit in featureA branch. Fifth commit, first commit in featureB branch. Seventh commit, third commit in featureB branch.
 
 Main line: Fifth commit, first commit in featureB branch.
 
-Main line: Sixth commit, second commit in featureB branch.
 Main line: Third commit, second commit in featureA branch.
-
 Main line: Fourth commit, third commit in featureA branch.
+Main line: Seventh commit, third commit in featureB branch.
