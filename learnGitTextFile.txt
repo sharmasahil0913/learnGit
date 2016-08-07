@@ -1,1 +1,7 @@
-This is my first commit, first commit in master branch.
+This is my first commit, first commit in master branch. Eighth commit, first commit in featureC branch. Ninth commit, second commit in featureC branch. Tenth commit, third commit in featureC branch.
+
+Main line: Eighth commit, first commit in featureC branch.
+
+Main line: Ninth commit, second commit in featureC branch.
+
+Main line: Tenth commit, third commit in featureC branch.
